@@ -38,16 +38,12 @@
   },
   "rich-text#desktop": {
     "props": {
-      "text": "# Your Coffee, Your Way /n ### New Coffee Makers Collection",
-      "textAlignment": "CENTER",
-      "textPosition": "CENTER"
+      "text": "# Your Coffee, Your Way /n ### New Coffee Makers Collection"
     }
   },
   "rich-text#mobile": {
     "props": {
-      "text": "### Your Coffee, Your Way /n #### New Coffee Makers Collection",
-      "textAlignment": "CENTER",
-      "textPosition": "CENTER"
+      "text": "### Your Coffee, Your Way /n #### New Coffee Makers Collection"
     }
   },
   "flex-layout.row":{
