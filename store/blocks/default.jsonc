@@ -33,12 +33,5 @@
       "product-identifier.summary",
       "product-summary-buy-button"
     ]
-  },
-
-  "product-summary": {
-    "props": {
-      "showListPrice": true,
-      "showSavings": true
-    }
   }
 }
