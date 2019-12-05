@@ -2,9 +2,13 @@
   "store.product": {
     "children": [
       "flex-layout.row#main"
-    ],
-    "showListPrice": true,
-    "showSavings": true
+    ]
+  },
+  "product-summary": {
+    "props": {
+      "showListPrice": true,
+      "showSavings": true
+    }
   },
   "flex-layout.row#main": { 
     "props": { 
