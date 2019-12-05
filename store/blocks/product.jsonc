@@ -56,7 +56,7 @@
     "props": {
       "showVariationsErrorMessage": true,
       "showValueNameForImageVariation": true,
-      "InitialSelectionEnum": "empty"
+      "initialSelection": "empty"
     }
   },
   "product-price": {
